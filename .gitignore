@@ -1,3 +1,6 @@
 __pycache__
 save/*
 data/*
+.DS_Store
+.idea/
+.texpadtmp/
