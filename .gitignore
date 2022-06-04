@@ -1,6 +1,6 @@
 __pycache__
-save/*
-data/*
+save/
+data/
 .DS_Store
 .idea/
 .texpadtmp/
