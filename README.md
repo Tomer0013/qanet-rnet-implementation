@@ -2,7 +2,6 @@
 This is an implementation of QANet and R-NET on the SQuAD dataset.
 
 The base of the code is taken from Stanford CS224n (winter 21) default project 1.
-`BASE PROJECT LICENSE` includes the license details for the base project code. 
 Course website can be found at https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/.
 Please refer to the website for the base code.
 
